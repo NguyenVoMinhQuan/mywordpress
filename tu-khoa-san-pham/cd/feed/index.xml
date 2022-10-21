@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/cd/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenvominhquan.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 14 Oct 2022 03:44:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 01:10:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Say What You Think</title>
 		<link>https://nguyenvominhquan.github.io/mywordpress/san-pham/say-what-you-think-2/</link>
