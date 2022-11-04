@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenvominhquan.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 02 Nov 2022 06:14:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Nov 2022 08:50:34 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Top 7 nhạc cổ điển không lời hay nhất mọi thời đại</title>
-		<link>https://nguyenvominhquan.github.io/mywordpress/top-7-nhac-co-dien-khong-loi/</link>
-					<comments>https://nguyenvominhquan.github.io/mywordpress/top-7-nhac-co-dien-khong-loi/#respond</comments>
+		<link>https://nguyenvominhquan.github.io/mywordpress/nhac-co-dien-khong-loi/</link>
+					<comments>https://nguyenvominhquan.github.io/mywordpress/nhac-co-dien-khong-loi/#respond</comments>
 		
 		<dc:creator><![CDATA[Quan]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 04:06:13 +0000</pubDate>
@@ -212,7 +212,7 @@
 <p><iframe loading="lazy" src="https://giphy.com/embed/3oriNYvVkCgIhSIKic" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenvominhquan.github.io/mywordpress/top-7-nhac-co-dien-khong-loi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenvominhquan.github.io/mywordpress/nhac-co-dien-khong-loi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nguyenvominhquan.github.io/mywordpress</link>
+	Các phản hồi luận về: Top 7 nhạc cổ điển không lời hay nhất mọi thời đại	</title>
+	<atom:link href="http://localhost/myproject/wordpress/nhac-co-dien-khong-loi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenvominhquan.github.io/mywordpress/nhac-co-dien-khong-loi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Fri, 04 Nov 2022 08:50:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
